@@ -21,7 +21,7 @@
         {
             "name": "Demonstration of exoelectrogenesis using Caulobacter crescentus",
             "short-name": "exoelectrgensis-caulobacter",
-            "repo": " https://github.com/virtual-labs/exp-exoelectrogenesis-crescentus-au",
+            "repo": "https://github.com/virtual-labs/exp-exoelectrogenesis-crescentus-au",
             "tag": "v1.0.0",
             "deploy": true
         },
@@ -42,7 +42,7 @@
         {
             "name": "Efficiency of sacrificial (aluminum, copper, manganese) and non-sacrificial electrodes (carbon, graphite) in MFC",
             "short-name": "sacrificial-electrodes-mfc",
-            "repo": " https://github.com/virtual-labs/exp-sacrificial-electrodes-mfc-au",
+            "repo": "https://github.com/virtual-labs/exp-sacrificial-electrodes-mfc-au",
             "tag": "v1.0.0",
             "deploy": true
         },
